@@ -1,0 +1,1 @@
+Designed and implemented a comprehensive cybersecurity home lab to simulate real-world security scenarios using the Elastic Stack. The project focused on building a Security Information and Event Management (SIEM) system to monitor, analyze, and visualize security events in a networked environment.
